@@ -1153,7 +1153,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 83b4ce216a66a4d4d96ddab3df7d29a8,
         type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 4294967295
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 83b4ce216a66a4d4d96ddab3df7d29a8, type: 3}
@@ -2190,7 +2190,7 @@ Light:
   m_RenderingLayerMask: 1
   m_Lightmapping: 2
   m_LightShadowCasterMode: 0
-  m_AreaSize: {x: 0.75, y: 0.78}
+  m_AreaSize: {x: 0.67, y: 0.67}
   m_BounceIntensity: 1.2
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
@@ -5153,6 +5153,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 612584045386596934, guid: 648a744eebf91cc4e9970c9af58a1cbb,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 746378532599559190, guid: 648a744eebf91cc4e9970c9af58a1cbb,
         type: 3}
       propertyPath: m_StaticEditorFlags
@@ -5194,6 +5199,11 @@ PrefabInstance:
       value: 60
       objectReference: {fileID: 0}
     - target: {fileID: 4995701932534321329, guid: 648a744eebf91cc4e9970c9af58a1cbb,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5103186476167058599, guid: 648a744eebf91cc4e9970c9af58a1cbb,
         type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
