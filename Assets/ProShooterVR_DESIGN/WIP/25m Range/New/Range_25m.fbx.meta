@@ -107,6 +107,11 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: Target_Lights2_M
+    second: {fileID: 2100000, guid: 3b287b9c1d540e844b76f8d76b9af94f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: Target_Lights_M
     second: {fileID: 2100000, guid: 5530f011e970214458c1e173018238cd, type: 2}
   - first:
