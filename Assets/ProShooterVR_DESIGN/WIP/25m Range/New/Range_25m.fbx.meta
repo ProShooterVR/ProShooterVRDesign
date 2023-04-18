@@ -57,6 +57,16 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: Guides_M
+    second: {fileID: 2100000, guid: b99bd837b338fb84493a3e34acdee02c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: New_table_M
+    second: {fileID: 2100000, guid: a707cac4b6775764abf54aaedee993e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: Range_table_M
     second: {fileID: 2100000, guid: 5cd7e93c744dd6343a4a081a76c442bf, type: 2}
   - first:
